@@ -3,11 +3,11 @@
   display:none;
 }
 .contents{
-  width:672px;
+  width:100%;
   margin: 0 auto;
 }
 .third-wrapper p{
-  width:672px;
+  width:70%;
 }
 .third-wrapper{
   height: 460px;
@@ -15,8 +15,7 @@
 .help-link{
   margin-bottom: 400px;
 }
-}
-@media all and (max-width:670px){
+@media all and (max-width:640px){
 .search-bar{
   width:100%;
 }
@@ -24,13 +23,31 @@
   height: 450px;
 }
 .main-wrapper h1{
-  font-size: 38px;
+  font-size: 30px;
+}
+.gift{
+  line-height: 42px;
 }
 .main-contents{
   margin-left: 0;
 }
 .second-wrapper{
-
+  width:100%;
+}
+.contents{
+  display: block;
+  width:100%;
+  margin: 0 auto;
+}
+.content{
+  width:100%;
+}
+.third-wrapper p{
+  width:85%;
+  font-size: 16px;
+}
+.btn{
+  width:95%;
 }
 footer{
   padding: 0;
@@ -41,5 +58,4 @@ footer{
 .license{
   width:100%;
   font-size: 10px;
-}
 }
