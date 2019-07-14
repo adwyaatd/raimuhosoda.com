@@ -62,4 +62,8 @@ footer{
 .license{
   width:100%;
   font-size: 10px;
+  margin: 0;
+}
+footer{
+  height:0;
 }
