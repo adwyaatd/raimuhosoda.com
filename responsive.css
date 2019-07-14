@@ -1,0 +1,45 @@
+@media all and (max-width:1127px){
+.header-contents{
+  display:none;
+}
+.contents{
+  width:672px;
+  margin: 0 auto;
+}
+.third-wrapper p{
+  width:672px;
+}
+.third-wrapper{
+  height: 460px;
+}
+.help-link{
+  margin-bottom: 400px;
+}
+}
+@media all and (max-width:670px){
+.search-bar{
+  width:100%;
+}
+.main-wrapper{
+  height: 450px;
+}
+.main-wrapper h1{
+  font-size: 38px;
+}
+.main-contents{
+  margin-left: 0;
+}
+.second-wrapper{
+
+}
+footer{
+  padding: 0;
+}
+.footer-contents{
+  display: none;
+}
+.license{
+  width:100%;
+  font-size: 10px;
+}
+}
