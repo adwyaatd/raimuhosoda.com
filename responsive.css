@@ -41,6 +41,10 @@
 }
 .content{
   width:100%;
+  margin: 0;
+}
+.content p{
+  font-size: 14px;
 }
 .third-wrapper p{
   width:85%;
